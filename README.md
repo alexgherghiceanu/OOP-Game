@@ -1,6 +1,6 @@
 # OOP-Game
 
-I developed this rouge-like game as the assignment for my OOP class. It served as an important step in becoming familiar both with the principles behind Object Oriented Programming, as well as different design patterns, such as the visitor, builder or factory patterns. Furthermore, it was an opportunity to get further aquainted with the development process of Graphic User Interfaces, using the swing toolset to create it.
+I developed this rogue-like game as the assignment for my OOP class. It served as an important step in becoming familiar both with the principles behind Object Oriented Programming, as well as different design patterns, such as the visitor, builder or factory patterns. Furthermore, it was an opportunity to get further aquainted with the development process of Graphic User Interfaces, using the swing toolset to create it.
 
 Feature of the game:
 
